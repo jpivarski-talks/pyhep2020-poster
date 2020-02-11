@@ -2,4 +2,4 @@
 
 Developing the poster for PyHEP 2020
 
-<img src="https://raw.githubusercontent.com/jpivarski/pyhep2020-poster/master/pyhep2020-poster.svg">
+<img src="./pyhep2020-poster.svg">
