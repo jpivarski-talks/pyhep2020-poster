@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="420mm"
+   viewBox="0 0 297 420"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="pyhep2020-poster.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="582.85714"
+     inkscape:cy="811.42857"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1469"
+     inkscape:window-height="1012"
+     inkscape:window-x="2371"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,123)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-13.607142,-180.45239)"><flowRegion
+         id="flowRegion817"><rect
+           id="rect819"
+           width="1091.4286"
+           height="1577.1431"
+           x="71.428574"
+           y="241.68733" /></flowRegion><flowPara
+         id="flowPara821">A3 size</flowPara><flowPara
+         id="flowPara823"></flowPara><flowPara
+         id="flowPara825">High-resolution view of venue</flowPara><flowPara
+         id="flowPara827"></flowPara><flowPara
+         id="flowPara829">&quot;import particle&quot;</flowPara><flowPara
+         id="flowPara831"></flowPara><flowPara
+         id="flowPara833">**PYHEP 2020**: WORKSHOP ON PYTHON IN HEP</flowPara><flowPara
+         id="flowPara835"></flowPara><flowPara
+         id="flowPara837">DATES, LOCATION!!!</flowPara><flowPara
+         id="flowPara839"></flowPara><flowPara
+         id="flowPara841">CO-LOCATED WITH SCIPY!!!</flowPara><flowPara
+         id="flowPara843"></flowPara><flowPara
+         id="flowPara845">(tiny text)</flowPara><flowPara
+         id="flowPara847"></flowPara><flowPara
+         id="flowPara849">PyHEP is a series of workshops initiated and supported by the HEP Software Foundation (HSF) to discuss and promote the use of Python in the HEP community. Further information is given on the PyHEP WG website.</flowPara><flowPara
+         id="flowPara851"></flowPara><flowPara
+         id="flowPara853">PyHEP 2020 will be held in Austin (Texas), USA, on 11-13 July 2020. The workshop will be next door to SciPy 2020, which is held on July 6-12, making it easy to attend both.</flowPara><flowPara
+         id="flowPara855"></flowPara><flowPara
+         id="flowPara857">1) A keynote presentation from the Data Science domain.</flowPara><flowPara
+         id="flowPara859">2) Topical sessions.</flowPara><flowPara
+         id="flowPara861">3) Hands-on tutorials.</flowPara><flowPara
+         id="flowPara863">4) Lightning talks from participants.</flowPara><flowPara
+         id="flowPara865">5) Presentations following up from topics discussed at PyHEP 2019.</flowPara><flowPara
+         id="flowPara1530"></flowPara><flowPara
+         id="flowPara1532">FOR ALL PYTHON SKILL LEVELS!!!</flowPara><flowPara
+         id="flowPara1534"></flowPara><flowPara
+         id="flowPara1536">https://cern.ch/pyhep2020, QR code (from me!)</flowPara><flowPara
+         id="flowPara1538"></flowPara><flowPara
+         id="flowPara1540">HSF logo, UT logo (from Peter)</flowPara><flowPara
+         id="flowPara1542"></flowPara><flowPara
+         id="flowPara1544">List of organizers (6 people, identical to Indico)</flowPara><flowPara
+         id="flowPara1546"></flowPara><flowPara
+         id="flowPara1548">Sponsored by IRIS-HEP (logo)</flowPara><flowPara
+         id="flowPara867" /><flowPara
+         id="flowPara869" /><flowPara
+         id="flowPara871" /><flowPara
+         id="flowPara873" /><flowPara
+         id="flowPara875" /><flowPara
+         id="flowPara877" /><flowPara
+         id="flowPara879" /><flowPara
+         id="flowPara881" /><flowPara
+         id="flowPara883" /><flowPara
+         id="flowPara885" /><flowPara
+         id="flowPara887" /></flowRoot>    <image
+       sodipodi:absref="/home/pivarski/talks/pyhep2020-poster/pyhep2020-qr.png"
+       xlink:href="pyhep2020-qr.png"
+       y="194.56844"
+       x="225.65179"
+       id="image951"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="52.916668"
+       width="52.916668" />
+  </g>
+</svg>
