@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,35 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="420mm"
-   viewBox="0 0 297 420"
-   version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="pyhep2020-poster.svg">
+   version="1.1"
+   viewBox="0 0 297 420"
+   height="420mm"
+   width="297mm">
   <defs
      id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="582.85714"
-     inkscape:cy="811.42857"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1469"
-     inkscape:window-height="1012"
-     inkscape:window-x="2371"
-     inkscape:window-y="32"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -50,21 +26,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,123)">
+     transform="translate(0,123)"
+     id="layer1">
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot815"
+       transform="matrix(0.26458333,0,0,0.26458333,-13.607142,-180.45239)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-13.607142,-180.45239)"><flowRegion
+       id="flowRoot815"
+       xml:space="preserve"><flowRegion
          id="flowRegion817"><rect
-           id="rect819"
-           width="1091.4286"
-           height="1577.1431"
+           y="241.68733"
            x="71.428574"
-           y="241.68733" /></flowRegion><flowPara
+           height="1577.1431"
+           width="1091.4286"
+           id="rect819" /></flowRegion><flowPara
          id="flowPara821">A3 size</flowPara><flowPara
          id="flowPara823"></flowPara><flowPara
          id="flowPara825">High-resolution view of venue</flowPara><flowPara
@@ -109,14 +83,13 @@
          id="flowPara883" /><flowPara
          id="flowPara885" /><flowPara
          id="flowPara887" /></flowRoot>    <image
-       sodipodi:absref="/home/pivarski/talks/pyhep2020-poster/pyhep2020-qr.png"
        xlink:href="pyhep2020-qr.png"
-       y="194.56844"
-       x="225.65179"
-       id="image951"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="52.916668"
        height="52.916668"
-       width="52.916668" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image951"
+       x="225.65179"
+       y="194.56844" />
   </g>
 </svg>
