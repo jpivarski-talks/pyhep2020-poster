@@ -1,5 +1,7 @@
 # pyhep2020-poster
 
-Developing the poster for PyHEP 2020
+[Finalized PDF is here.](./pyhep2020-poster.pdf)
 
-![](./pyhep2020-poster.svg)
+# Quick view
+
+![](./pyhep2020-poster.svg.png)
